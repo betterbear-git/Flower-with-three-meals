@@ -27,7 +27,7 @@ public class GamaManager : MonoBehaviour
     }
     public void moveToScne3()
     {
-        SceneManager.LoadScene("Scene3");
+        SceneManager.LoadScene("Scene 3");
     }
     public void moveToScne4()
     {
